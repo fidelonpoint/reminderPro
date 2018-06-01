@@ -1,3 +1,3 @@
 export const ADD_REMINDER = 'ADD_REMINDER';
 
-//const GREAT_COURSE = 'GREAT_COURSE';
+export const DELETE_REMINDER = 'DELETE_REMINDER';
